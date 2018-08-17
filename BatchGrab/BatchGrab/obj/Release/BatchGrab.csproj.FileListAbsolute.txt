@@ -1,0 +1,6 @@
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\BatchGrab\BatchGrab\bin\Release\BatchGrab.exe.config
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\BatchGrab\BatchGrab\bin\Release\BatchGrab.exe
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\BatchGrab\BatchGrab\bin\Release\BatchGrab.pdb
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\BatchGrab\BatchGrab\obj\Release\BatchGrab.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\BatchGrab\BatchGrab\obj\Release\BatchGrab.exe
+C:\Users\rafae\Desktop\Projects\main\rflx-c#\BatchGrab\BatchGrab\obj\Release\BatchGrab.pdb
